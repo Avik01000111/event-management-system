@@ -1,0 +1,29 @@
+{
+  "name": "next-reactmeetups",
+  "productName": "React Meetups",
+  "version": "1.0.0",
+  "description": "A social networking site to summarize Next.js core concepts.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solygambas/next-projects.git"
+  },
+  "author": "solygambas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solygambas/next-projects/issues"
+  },
+  "homepage": "https://github.com/solygambas/next-projects#readme",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "mongodb": "^3.6.4",
+    "next": "^15.4.6",
+    "postcss": "^8.5.6",
+    "postcss-scss": "^4.0.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
